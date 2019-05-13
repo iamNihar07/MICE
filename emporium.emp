@@ -1,0 +1,106 @@
+MICE
+0.1
+#
+EMPORIUM
+Default
+0
+0
+#
+CONTAINER
+Cone
+0.25
+0.5
+0
+2
+Crispy airy delight
+#
+CONTAINER
+Waffle Cone
+0.35
+0.75
+0
+3
+Crunchy wrapped waffle cake
+#
+SCOOP
+Chocolate
+0.2
+0.5
+0
+Rich smooth chocolate ice cream
+#
+SCOOP
+Vanilla
+0.2
+0.5
+0
+Real vanilla bean ice cream
+#
+SCOOP
+Strawberry
+0.2
+0.5
+0
+Chunks of strawberry wrapped in vanilla ice cream
+#
+TOPPING
+Cherry
+0.1
+0.2
+0
+0
+Classic marichino cherry
+#
+TOPPING
+Chocolate Sauce
+0.1
+0.25
+0
+0
+Rich thick chocolate
+#
+TOPPING
+Whipped Cream
+0.1
+0.2
+0
+0
+Real sweet cream whipped to perfection
+#
+SERVER
+Penny
+BBT
+817-555-1212
+10.25
+0
+#
+SERVER
+Rachel Green
+Friends
+817-555-1213
+8.75
+0
+#
+SERVER
+Henry Jackson
+BWidowers
+817-555-1214
+15
+0
+#
+CUSTOMER
+Nihar Gupte
+101
+6825526513
+#
+CUSTOMER
+Columbo
+LAPD
+817-555-1312
+#
+CUSTOMER
+Elton John
+Glitter
+817-555-1313
+#
+END EMPORIUM
